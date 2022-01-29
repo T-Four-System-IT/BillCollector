@@ -1,0 +1,162 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.LoginForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormCalendar.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormHistory.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormCalendar.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormHistory.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormCalendar.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormHistory.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.LoginForm.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Presentation.exe.config
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Presentation.exe
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Presentation.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\CircularProgressBar.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Common.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Domain.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\WinFormAnimation.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\DataAccess.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Common.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\Domain.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\CircularProgressBar.xml
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\bin\Debug\DataAccess.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormProducts.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormClients.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormEmailsTemplate.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormValidation.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.LoginForm.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.MainForm.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.exe
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Presentation\obj\Debug\Presentation.BaseForms.BaseMainForm.resources
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Presentation.exe.config
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Presentation.exe
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Presentation.pdb
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Common.dll
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Domain.dll
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\DataAccess.dll
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Common.pdb
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\Domain.pdb
+E:\_Start\TU\BillCollector\Source\Presentation\bin\Debug\DataAccess.pdb
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.BaseForms.BaseMainForm.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormProducts.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormClients.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormValidation.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.LoginForm.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.MainForm.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.exe
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.pdb
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormClientProduct.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormClientProductMaintenance.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.Form1.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormBillingRule.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormReport.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormSendEmail.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormImport.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormScaleRule.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormClientsMaintenance.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormProductsMaintenance.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormEmailTemplate.resources
+E:\_Start\TU\BillCollector\Source\Presentation\obj\Debug\Presentation.ChildForms.FormEmailTemplateMaintenance.resources

@@ -1,0 +1,53 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Domain.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\Common.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\bin\Debug\DataAccess.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.csproj.CopyComplete
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Domain\obj\Debug\Domain.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\bin\Debug\Domain.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\bin\Debug\Domain.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\bin\Debug\Common.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\bin\Debug\DataAccess.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\bin\Debug\Common.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\bin\Debug\DataAccess.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\obj\Debug\Domain.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Domain\obj\Debug\Domain.pdb
+E:\_Start\TU\BillCollector\Source\Domain\bin\Debug\Domain.dll
+E:\_Start\TU\BillCollector\Source\Domain\bin\Debug\Domain.pdb
+E:\_Start\TU\BillCollector\Source\Domain\bin\Debug\Common.dll
+E:\_Start\TU\BillCollector\Source\Domain\bin\Debug\DataAccess.dll
+E:\_Start\TU\BillCollector\Source\Domain\bin\Debug\Common.pdb
+E:\_Start\TU\BillCollector\Source\Domain\bin\Debug\DataAccess.pdb
+E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.dll
+E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.pdb

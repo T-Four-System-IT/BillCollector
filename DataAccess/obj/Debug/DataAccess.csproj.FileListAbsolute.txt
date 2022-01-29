@@ -1,0 +1,43 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\DataAccess.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\bin\Debug\Common.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\DataAccess\obj\Debug\DataAccess.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\bin\Debug\DataAccess.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\bin\Debug\DataAccess.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\bin\Debug\Common.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\bin\Debug\Common.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\obj\Debug\DataAccess.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\obj\Debug\DataAccess.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\_Start\TU\BillCollector\Source\DataAccess\bin\Debug\DataAccess.dll
+E:\_Start\TU\BillCollector\Source\DataAccess\bin\Debug\DataAccess.pdb
+E:\_Start\TU\BillCollector\Source\DataAccess\bin\Debug\Common.dll
+E:\_Start\TU\BillCollector\Source\DataAccess\bin\Debug\Common.pdb
+E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.dll
+E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.pdb
+E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache

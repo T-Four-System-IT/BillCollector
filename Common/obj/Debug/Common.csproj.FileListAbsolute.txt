@@ -1,0 +1,28 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+C:\Users\Fernando\Google Drive\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+G:\My Drive\01.Lab\23.Rjcode\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Common\bin\Debug\Common.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Common\bin\Debug\Common.pdb
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Common\obj\Debug\Common.dll
+E:\_Start\ReguaCobrança\Source\TU\BillCollector\Common\obj\Debug\Common.pdb
+E:\_Start\TU\BillCollector\Source\Common\bin\Debug\Common.dll
+E:\_Start\TU\BillCollector\Source\Common\bin\Debug\Common.pdb
+E:\_Start\TU\BillCollector\Source\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\_Start\TU\BillCollector\Source\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\_Start\TU\BillCollector\Source\Common\obj\Debug\Common.dll
+E:\_Start\TU\BillCollector\Source\Common\obj\Debug\Common.pdb
