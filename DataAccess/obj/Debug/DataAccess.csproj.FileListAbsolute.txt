@@ -41,3 +41,12 @@ E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.csproj.CopyCom
 E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.dll
 E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.pdb
 E:\_Start\TU\BillCollector\Source\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\bin\Debug\Common.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\bin\Debug\Common.pdb
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\DataAccess\obj\Debug\DataAccess.pdb

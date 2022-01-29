@@ -32,45 +32,47 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.btnSearch = new System.Windows.Forms.Button();
-            this.btnDetalles = new System.Windows.Forms.Button();
+            this.BtnSearch = new System.Windows.Forms.Button();
+            this.btnDetalhes = new System.Windows.Forms.Button();
             this.btnEdit = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnRemove = new System.Windows.Forms.Button();
             this.Label7 = new System.Windows.Forms.Label();
-            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.TxtSearch = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
-            // btnSearch
+            // BtnSearch
             // 
-            this.btnSearch.BackColor = System.Drawing.Color.Goldenrod;
-            this.btnSearch.FlatAppearance.BorderSize = 0;
-            this.btnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSearch.ForeColor = System.Drawing.Color.White;
-            this.btnSearch.Location = new System.Drawing.Point(470, 37);
-            this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(87, 22);
-            this.btnSearch.TabIndex = 99;
-            this.btnSearch.Text = "Buscar";
-            this.btnSearch.UseVisualStyleBackColor = false;
+            this.BtnSearch.BackColor = System.Drawing.Color.Goldenrod;
+            this.BtnSearch.FlatAppearance.BorderSize = 0;
+            this.BtnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnSearch.ForeColor = System.Drawing.Color.White;
+            this.BtnSearch.Location = new System.Drawing.Point(470, 37);
+            this.BtnSearch.Name = "BtnSearch";
+            this.BtnSearch.Size = new System.Drawing.Size(87, 22);
+            this.BtnSearch.TabIndex = 99;
+            this.BtnSearch.Text = "Buscar";
+            this.BtnSearch.UseVisualStyleBackColor = false;
+            this.BtnSearch.Click += new System.EventHandler(this.BtnSearch_Click);
             // 
-            // btnDetalles
+            // btnDetalhes
             // 
-            this.btnDetalles.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnDetalles.BackColor = System.Drawing.Color.MediumSlateBlue;
-            this.btnDetalles.FlatAppearance.BorderSize = 0;
-            this.btnDetalles.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDetalles.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDetalles.ForeColor = System.Drawing.Color.White;
-            this.btnDetalles.Location = new System.Drawing.Point(813, 65);
-            this.btnDetalles.Name = "btnDetalles";
-            this.btnDetalles.Size = new System.Drawing.Size(130, 38);
-            this.btnDetalles.TabIndex = 98;
-            this.btnDetalles.Text = "Ver detalles";
-            this.btnDetalles.UseVisualStyleBackColor = false;
+            this.btnDetalhes.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnDetalhes.BackColor = System.Drawing.Color.MediumSlateBlue;
+            this.btnDetalhes.FlatAppearance.BorderSize = 0;
+            this.btnDetalhes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDetalhes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDetalhes.ForeColor = System.Drawing.Color.White;
+            this.btnDetalhes.Location = new System.Drawing.Point(813, 65);
+            this.btnDetalhes.Name = "btnDetalhes";
+            this.btnDetalhes.Size = new System.Drawing.Size(130, 38);
+            this.btnDetalhes.TabIndex = 98;
+            this.btnDetalhes.Text = "Ver detalles";
+            this.btnDetalhes.UseVisualStyleBackColor = false;
+            this.btnDetalhes.Click += new System.EventHandler(this.btnDetalhes_Click);
             // 
             // btnEdit
             // 
@@ -118,6 +120,8 @@
             this.btnRemove.TabIndex = 96;
             this.btnRemove.Text = "Excluir";
             this.btnRemove.UseVisualStyleBackColor = false;
+            this.btnRemove.Visible = false;
+            this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
             // 
             // Label7
             // 
@@ -131,13 +135,13 @@
             this.Label7.TabIndex = 94;
             this.Label7.Text = "Buscar:";
             // 
-            // txtSearch
+            // TxtSearch
             // 
-            this.txtSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSearch.Location = new System.Drawing.Point(29, 37);
-            this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(442, 22);
-            this.txtSearch.TabIndex = 93;
+            this.TxtSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtSearch.Location = new System.Drawing.Point(29, 37);
+            this.TxtSearch.Name = "TxtSearch";
+            this.TxtSearch.Size = new System.Drawing.Size(442, 22);
+            this.TxtSearch.TabIndex = 93;
             // 
             // dataGridView1
             // 
@@ -196,13 +200,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(968, 528);
-            this.Controls.Add(this.btnSearch);
-            this.Controls.Add(this.btnDetalles);
+            this.Controls.Add(this.BtnSearch);
+            this.Controls.Add(this.btnDetalhes);
             this.Controls.Add(this.btnEdit);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.Label7);
-            this.Controls.Add(this.txtSearch);
+            this.Controls.Add(this.TxtSearch);
             this.Controls.Add(this.dataGridView1);
             this.Name = "FormEmailTemplate";
             this.Text = "Lista de Templates de Email";
@@ -214,13 +218,13 @@
 
         #endregion
 
-        internal System.Windows.Forms.Button btnSearch;
-        internal System.Windows.Forms.Button btnDetalles;
+        internal System.Windows.Forms.Button BtnSearch;
+        internal System.Windows.Forms.Button btnDetalhes;
         internal System.Windows.Forms.Button btnEdit;
         internal System.Windows.Forms.Button btnAdd;
         internal System.Windows.Forms.Button btnRemove;
         internal System.Windows.Forms.Label Label7;
-        internal System.Windows.Forms.TextBox txtSearch;
+        internal System.Windows.Forms.TextBox TxtSearch;
         private System.Windows.Forms.DataGridView dataGridView1;
     }
 }

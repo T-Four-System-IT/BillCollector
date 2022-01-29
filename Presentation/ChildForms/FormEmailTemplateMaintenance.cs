@@ -35,6 +35,24 @@ namespace Presentation.ChildForms
             FillFields();
             lblCaption.Text = "Modificar o Template do Email";
         }
+
+        public FormEmailTemplateMaintenance(EmailTemplateModel emailTemplateModel, bool emailTemplateDetail)
+        {
+            InitializeComponent();
+            this.TitleBarColor = Color.MediumSlateBlue;
+            btnSave.BackColor = Color.MediumSlateBlue;
+
+            _emailTemplateModel = emailTemplateModel;
+            _emailTemplateModify = true;
+            FillFields();
+            lblCaption.Text = "Visualizar informações sobre Template do Email";
+            TxtDescricaoTemplate.ReadOnly = true;
+            TxtAssunto.ReadOnly = true;
+            TxtParagrafo1.ReadOnly = true;
+            TxtParagrafo2.ReadOnly = true;
+            TxtParagrafo3.ReadOnly = true;
+            btnSave.Enabled = false;
+        }
         #endregion
 
         #region -> Métodos
