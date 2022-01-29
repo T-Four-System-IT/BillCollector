@@ -51,3 +51,14 @@ E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.csproj.CoreCompileInpu
 E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.csproj.CopyComplete
 E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.dll
 E:\_Start\TU\BillCollector\Source\Domain\obj\Debug\Domain.pdb
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\bin\Debug\Domain.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\bin\Debug\Domain.pdb
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\bin\Debug\Common.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\bin\Debug\DataAccess.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\bin\Debug\Common.pdb
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\obj\Debug\Domain.dll
+C:\Users\Fernando\Source\Repos\T-Four-System-IT\BillCollector\Domain\obj\Debug\Domain.pdb

@@ -144,9 +144,8 @@ namespace Domain
 
         public IEnumerable<EmailTemplateModel> GetByValue(string value)
         {
-            //var emailTemplateEntityList = _emailTemplateRepository.GetEmailTemplatesByValue(value);
-            //return MapEmailTemplateModel(emailTemplateEntityList);
-            return null;
+            var emailTemplateEntityList = _emailTemplateRepository.GetEmailTemplateByValue(value);
+            return MapEntityToModel(emailTemplateEntityList);
         }
         #endregion
 

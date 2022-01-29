@@ -111,7 +111,38 @@ namespace DataAccess.DBServices
 
         public List<EmailTemplateEntity> GetEmailTemplateByValue(string value)
         {
-            throw new NotImplementedException();
+            var emailTemplateList = new List<EmailTemplateEntity>();
+
+            using (var connection = GetConnection())
+            {
+                connection.Open();
+                using (var command = new SqlCommand())
+                {
+                    command.Connection = connection;
+                    string query = "select * from EmailTemplate Where Descricao like '%" + value + "%'";
+                    command.CommandText = query;
+                    command.CommandType = CommandType.Text;
+
+                    SqlDataReader reader = command.ExecuteReader();
+                    if (reader.HasRows)
+                    {
+                        while (reader.Read())
+                        {
+                            var emailTemplateObj = new EmailTemplateEntity
+                            {
+                                Id = (int)reader[0],
+                                Descricao = reader[1].ToString(),
+                                Assunto = reader[2].ToString(),
+                                Paragrafo1 = reader[3].ToString(),
+                                Paragrafo2 = reader[4].ToString(),
+                                Paragrafo3 = reader[5].ToString()
+                            };
+                            emailTemplateList.Add(emailTemplateObj);
+                        }
+                    }
+                }
+            }
+            return emailTemplateList;
         }
 
         public int ModifyEmailTemplate(EmailTemplateEntity emailTemplate)
@@ -147,160 +178,3 @@ namespace DataAccess.DBServices
     }
 }
 
-
-
-//public int ModifyProduct(EmailTemplateEntity emailTemplate)
-//{
-//}
-
-//public int RemoveProduct(int id)
-//{
-//    int result = -1;
-
-//    using (var connection = GetConnection())
-//    {
-//        connection.Open();
-//        using (var command = new SqlCommand())
-//        {
-//            command.Connection = connection;
-//            command.CommandText = @"delete from Produtos where id=@id ";
-//            command.Parameters.AddWithValue("@id", id);
-
-//            command.CommandType = CommandType.Text;
-//            result = command.ExecuteNonQuery();
-//        }
-//    }
-//    return result;
-//}
-
-//public EmailTemplateEntity GetProductById(int id)
-//{
-//    using (var connection = GetConnection())
-//    {
-//        connection.Open();
-//        using (var command = new SqlCommand())
-//        {
-//            command.Connection = connection;
-//            command.CommandText = "select * from Produtos where id=@id";
-//            command.Parameters.AddWithValue("@id", id);
-//            command.CommandType = CommandType.Text;
-
-//            SqlDataReader reader = command.ExecuteReader();
-//            if (reader.Read())
-//            {
-//                var emailTemplateObj = new EmailTemplateEntity
-//                {
-//                    Id = (int)reader[0],
-//                    CodigoProduto = reader[1].ToString(),
-//                    NomeProduto = reader[2].ToString(),
-//                    OperadorManutencao = reader[3].ToString(),
-//                    DataManutencao = (DateTime)reader[4],
-//                };
-//                return emailTemplateObj;
-//            }
-//            else
-//                return null;
-//        }
-//    }
-//}
-
-//public EmailTemplateEntity GetProductByName(string emailTemplateName)
-//{
-//    using (var connection = GetConnection())
-//    {
-//        connection.Open();
-//        using (var command = new SqlCommand())
-//        {
-//            command.Connection = connection;
-//            command.CommandText = "select * from Produtos where NomeProduto = @ProductName";
-//            command.Parameters.AddWithValue("@ProductName", emailTemplateName);
-//            command.CommandType = CommandType.Text;
-
-//            SqlDataReader reader = command.ExecuteReader();
-//            if (reader.Read())
-//            {
-//                var emailTemplateObj = new EmailTemplateEntity
-//                {
-//                    Id = (int)reader[0],
-//                    CodigoProduto = reader[1].ToString(),
-//                    NomeProduto = reader[2].ToString(),
-//                    OperadorManutencao = reader[3].ToString(),
-//                    DataManutencao = (DateTime)reader[4],
-//                };
-//                return emailTemplateObj;
-//            }
-//            else
-//                return null;
-//        }
-//    }
-//}
-
-//public IEnumerable<EmailTemplateEntity> GetAllProducts()
-//{
-//    var emailTemplateList = new List<EmailTemplateEntity>();
-
-//    using (var connection = GetConnection())
-//    {
-//        connection.Open();
-//        using (var command = new SqlCommand())
-//        {
-//            command.Connection = connection;
-//            command.CommandText = "select * from Produtos order by NomeProduto";
-//            command.CommandType = CommandType.Text;
-
-//            SqlDataReader reader = command.ExecuteReader();
-//            if (reader.HasRows)
-//            {
-//                while (reader.Read())
-//                {
-//                    var emailTemplateObj = new EmailTemplateEntity
-//                    {
-//                        Id = (int)reader[0],
-//                        CodigoProduto = reader[1].ToString(),
-//                        NomeProduto = reader[2].ToString(),
-//                        OperadorManutencao = reader[3].ToString(),
-//                        DataManutencao = (DateTime)reader[4],
-//                    };
-//                    emailTemplateList.Add(emailTemplateObj);
-//                }
-//            }
-//        }
-//    }
-//    return emailTemplateList;
-//}
-
-//public List<EmailTemplateEntity> GetProductsByValue(string value)
-//{
-//    var emailTemplateList = new List<EmailTemplateEntity>();
-
-//    using (var connection = GetConnection())
-//    {
-//        connection.Open();
-//        using (var command = new SqlCommand())
-//        {
-//            command.Connection = connection;
-//            string query = "select * from Produtos Where NomeProduto like '%" + value + "%'";
-//            command.CommandText = query;
-//            //command.Parameters.AddWithValue("@ProductName", value);
-//            command.CommandType = CommandType.Text;
-
-//            SqlDataReader reader = command.ExecuteReader();
-//            if (reader.HasRows)
-//            {
-//                while (reader.Read())
-//                {
-//                    var emailTemplateObj = new EmailTemplateEntity
-//                    {
-//                        Id = (int)reader[0],
-//                        CodigoProduto = reader[1].ToString(),
-//                        NomeProduto = reader[2].ToString(),
-//                        OperadorManutencao = reader[3].ToString(),
-//                        DataManutencao = (DateTime)reader[4],
-//                    };
-//                    emailTemplateList.Add(emailTemplateObj);
-//                }
-//            }
-//        }
-//    }
-//    return emailTemplateList;
-//}
